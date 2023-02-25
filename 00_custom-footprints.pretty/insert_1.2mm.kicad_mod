@@ -1,0 +1,24 @@
+(footprint "insert_1.2mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.05 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c4c6e276-d68b-473f-ad3c-e7b958dfaffa)
+  )
+  (fp_text value "insert_1.2mm" (at 0 0 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 0.2) (thickness 0.05)))
+    (tstamp 02175847-4ff3-47c9-9a87-b01089dd80d6)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -0.05 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 51364db6-6708-4a9d-8af5-37865373e0bb)
+  )
+  (pad "1" smd circle (at 0 0) (size 3 3) (layers "F.Cu" "F.Mask")
+    (solder_mask_margin -0.5) (tstamp 1dcfb235-49af-4b5e-b5cc-3b8d0a382109))
+  (model "/home/aightech/KICAD/libs/custom_lib/step/insert_2mm.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

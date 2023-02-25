@@ -1,0 +1,21 @@
+(footprint "Pin_D1.2mm_pogo" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5A1DC085)
+  (descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
+  (tags "solder Pin_ with flat fork")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 2.2) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5363e505-0ad9-4eca-84a0-1f2a92cb672e)
+  )
+  (fp_text value "*" (at 0 -2.05) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e62998b8-9b09-4676-9db4-9f05f4048121)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp 9cf75016-23f4-476e-a1a1-f95cb6d2b1d1))
+  (model "/home/aightech/KICAD/libs/custom_lib/step/pogo_pin_1.02-16.54.step"
+    (offset (xyz 0 0 -14))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
