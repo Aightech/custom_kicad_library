@@ -289,7 +289,7 @@
   (pad "13" smd rect (at 1.769001 -1.000001 90) (size 0.279908 0.849884) (layers "F.Cu" "F.Mask") (tstamp 04119929-cc3e-4168-9a32-03b67ffbd2db))
   (pad "14" smd rect (at 0.750001 -1.731) (size 0.279908 0.849884) (layers "F.Cu" "F.Mask") (tstamp 6fd5b23a-2890-4a53-acf5-cea31a4f1c8b))
   (pad "15" smd rect (at 0 0) (size 2.05 2.05) (layers "F.Cu") (tstamp aa737c4a-e3b4-49e3-8eb6-e46e68987da8))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/SN74ALVC08RGYR.step"
+  (model "../step/SN74ALVC08RGYR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

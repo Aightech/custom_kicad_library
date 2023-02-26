@@ -22,7 +22,7 @@
   (pad "2" smd rect (at 0.915 -0.55) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 22e84198-962f-4d9c-a9fb-0ae5473a3609))
   (pad "3" smd rect (at -0.915 -0.55) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 33d9a361-a33d-4c93-bf84-5db208664133))
   (pad "4" smd rect (at -0.915 0.55) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1b615f4c-2cdf-4f1d-93d7-05a02f4b16b8))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/WS2812-2020.STEP"
+  (model "../step/WS2812-2020.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -46,7 +46,7 @@
   (pad "22" smd roundrect (at 2.635 -2.2225) (size 1.64 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05) (tstamp fbd696aa-ae5f-482b-bbd2-686ce7fd8d61))
   (pad "23" smd roundrect (at 2.635 -2.8575) (size 1.64 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05) (tstamp dc7f6bff-ed9e-4c5e-b52d-4e0b1f2e11cf))
   (pad "24" smd roundrect (at 2.635 -3.4925) (size 1.64 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05) (tstamp 5934d27e-06e0-4377-ba8a-76c17431db9d))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/MAX11632EEGT.step"
+  (model "../step/MAX11632EEGT.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

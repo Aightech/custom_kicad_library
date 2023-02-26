@@ -61,7 +61,7 @@
     (solder_mask_margin 0.035) (solder_paste_margin 0.0125) (tstamp 2114ce72-08a4-441e-b9d7-b6e040535d5d))
   (pad "D4" smd circle (at 0.525 0.525) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.035) (solder_paste_margin 0.0125) (tstamp 14831ae3-1dc7-4272-82c0-0b7c36acd836))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/csp16_1.6x1.4.step"
+  (model "../step/csp16_1.6x1.4.step"
     (offset (xyz 0 0 0.05))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

@@ -13,7 +13,7 @@
     (tstamp e62998b8-9b09-4676-9db4-9f05f4048121)
   )
   (pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp 9cf75016-23f4-476e-a1a1-f95cb6d2b1d1))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/pogo_pin_1.02-16.54.step"
+  (model "../step/pogo_pin_1.02-16.54.step"
     (offset (xyz 0 0 -14))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

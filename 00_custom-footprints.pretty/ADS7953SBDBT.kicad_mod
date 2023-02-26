@@ -246,7 +246,7 @@
   (pad "36" smd rect (at 2.949948 -3.500001) (size 1.404099 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4cc6660f-0dc7-4389-a576-94e698d8664b))
   (pad "37" smd rect (at 2.949948 -4) (size 1.404099 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 132f3940-f78f-4562-9e95-f34d5a9331b2))
   (pad "38" smd rect (at 2.949948 -4.500001) (size 1.404099 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a5f0c8c7-95c6-43ba-a167-83a716917793))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/ADS7953SBDBT.step"
+  (model "../step/ADS7953SBDBT.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

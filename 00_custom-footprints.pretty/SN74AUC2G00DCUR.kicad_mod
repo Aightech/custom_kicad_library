@@ -92,7 +92,7 @@
   (pad "6" smd rect (at 1.572001 0.25) (size 0.756399 0.254) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c710017e-13a5-46fc-b5a7-57fe5a6f2b1e))
   (pad "7" smd rect (at 1.572001 -0.25) (size 0.756399 0.254) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 89cec3b2-ae8d-4d16-9381-e1b6a283fdf6))
   (pad "8" smd rect (at 1.572001 -0.750001) (size 0.756399 0.254) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b42c6eb7-edf8-40c5-bc39-6b53b67c1f50))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/SN74AUC2G00DCUR.step"
+  (model "../step/SN74AUC2G00DCUR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

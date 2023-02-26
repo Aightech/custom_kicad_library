@@ -54,7 +54,7 @@
   (pad "3" smd rect (at -1.121151 0.649999) (size 0.845299 0.3048) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp be6c1f4b-c38e-46bc-99dd-9c3d1a4eee25))
   (pad "4" smd rect (at 1.121151 0.649999) (size 0.845299 0.3048) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cbeea6b8-c0fe-4df0-a2b5-08d8fba80e0e))
   (pad "5" smd rect (at 1.121151 -0.649999) (size 0.845299 0.3048) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e37b74a7-c19a-4e76-807e-32c9106ea71e))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/SN74LVC1G132DCKR.step"
+  (model "../step/SN74LVC1G132DCKR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

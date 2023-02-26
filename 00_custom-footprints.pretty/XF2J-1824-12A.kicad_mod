@@ -55,7 +55,7 @@
   (pad "18" smd rect (at 4.25 -1.2) (size 0.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b141340d-20fc-4ccb-b4ef-e4da3cb78b8e))
   (pad "19" smd rect (at -6 0) (size 1.5 2.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bc68f5db-a403-4cfc-a8a0-02854674338f))
   (pad "20" smd rect (at 6 0) (size 1.5 2.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 734ae84e-424f-40b2-b831-e03d69c53683))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/XF2J-1824-12A.STEP"
+  (model "../step/XF2J-1824-12A.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

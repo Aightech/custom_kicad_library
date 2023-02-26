@@ -16,7 +16,7 @@
   )
   (pad "1" smd circle (at 0 0) (size 3 3) (layers "F.Cu" "F.Mask")
     (solder_mask_margin -0.5) (tstamp 1dcfb235-49af-4b5e-b5cc-3b8d0a382109))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/insert_2mm.step"
+  (model "../step/insert_2mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

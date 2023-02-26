@@ -37,7 +37,7 @@
   (pad "2" smd rect (at -0.623001 0.475) (size 0.8636 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 82411fdc-9a37-41cd-88ef-fb0802151190))
   (pad "3" smd rect (at 0.623001 0.475) (size 0.8636 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d63325ad-ce76-4cdc-99fa-2c87ca24857a))
   (pad "4" smd rect (at 0.623001 -0.475) (size 0.8636 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6aa750b7-cc63-4c67-8c67-29cbc3476b29))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/neopixel_5050.step"
+  (model "../step/neopixel_5050.step"
     (offset (xyz 0 0 0))
     (scale (xyz 0.33 0.4 0.33))
     (rotate (xyz -90 0 0))

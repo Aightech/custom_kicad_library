@@ -36,7 +36,7 @@
   (pad "4" thru_hole circle (at 2.5 2) (size 1.431 1.431) (drill 0.92) (layers *.Cu *.Mask) (tstamp 56f1b4c4-f292-4d75-ad23-aec381943965))
   (pad "5" thru_hole circle (at -4.77 4.71) (size 3.45 3.45) (drill 2.3) (layers *.Cu *.Mask) (tstamp 0268e179-f895-43bd-a7a9-62f0707f85b8))
   (pad "6" thru_hole circle (at 7.27 4.71) (size 3.45 3.45) (drill 2.3) (layers *.Cu *.Mask) (tstamp e9d27397-6c7f-4df5-9d56-5425781cc5b4))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/usbB.step"
+  (model "../step/usbB.step"
     (offset (xyz 1.25 -6.75 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

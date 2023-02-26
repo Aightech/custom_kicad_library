@@ -264,7 +264,7 @@
   (pad "31" smd rect (at -1.25 -2.425002) (size 0.25 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cc74be7e-b5a1-4860-89d5-9abcd1ebd205))
   (pad "32" smd rect (at -1.749999 -2.425002) (size 0.25 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1fb839a7-ffc8-4666-9e0a-7290f09eebd5))
   (pad "33" smd rect (at 0 0) (size 3.6 3.6) (layers "F.Cu" "F.Mask") (tstamp 16c08025-1d17-462f-89b0-874300fc8167))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/ADXL312ACPZ.step"
+  (model "../step/ADXL312ACPZ.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

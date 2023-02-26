@@ -131,7 +131,7 @@
   (pad "47" thru_hole circle (at 1.4 0.7) (size 0.5 0.5) (drill 0.4) (layers *.Cu) (tstamp 11b475cf-5fa5-43c2-9019-bea08f7556eb))
   (pad "48" thru_hole circle (at -0.7 1.4) (size 0.5 0.5) (drill 0.4) (layers *.Cu) (tstamp 04936b02-9b87-47fa-9d8d-a17d135b66c6))
   (pad "49" thru_hole circle (at 0.7 1.4) (size 0.5 0.5) (drill 0.4) (layers *.Cu) (tstamp 8bb8ebcc-620d-4477-94fe-04b3af97182d))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/ESP32-C3FH4.step"
+  (model "../step/ESP32-C3FH4.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

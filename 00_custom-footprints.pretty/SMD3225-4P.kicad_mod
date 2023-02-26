@@ -23,7 +23,7 @@
   (pad "2" smd roundrect (at 1.1 0.875 90) (size 0.95 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b254177a-88aa-4382-810d-d09b09db2c0d))
   (pad "3" smd roundrect (at 1.1 -0.875 90) (size 0.95 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp dea39411-a244-4d23-a71a-e57fb5815ecc))
   (pad "4" smd roundrect (at -1.1 -0.875 180) (size 1.2 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp aa5011f5-8c15-4c2a-81ca-bab27d38c802))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/xtal3225.step"
+  (model "../step/xtal3225.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -42,7 +42,7 @@
   (pad "12" thru_hole circle (at 3.97 -2.54) (size 1.13 1.13) (drill 0.73) (layers *.Cu *.Mask) (tstamp e64c208c-cd5c-47d9-b986-527f5f96afdb))
   (pad "13" thru_hole circle (at 3.97 -5.08) (size 1.13 1.13) (drill 0.73) (layers *.Cu *.Mask) (tstamp f51769f5-195e-4902-a43f-5df541b2ed16))
   (pad "14" thru_hole circle (at 3.97 -7.62) (size 1.13 1.13) (drill 0.73) (layers *.Cu *.Mask) (tstamp ff35cf26-2819-4f64-8cb9-42c6060290e2))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/TL974IN.stp"
+  (model "../step/TL974IN.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

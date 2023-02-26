@@ -24,7 +24,7 @@
   (fp_line (start -1.800001 5.7) (end 1.8 5.7) (layer "F.SilkS") (width 0.1524) (tstamp 174a3975-ff69-405b-a287-098ed469c7d0))
   (fp_line (start 1.8 5.7) (end 1.8 3) (layer "F.SilkS") (width 0.1524) (tstamp 6ccc0d79-22a9-4aae-84cb-2e442eae6c45))
   (fp_circle (center 0 0) (end 3.5 0) (layer "F.SilkS") (width 0.1524) (fill none) (tstamp c41453de-5c80-4cd1-bfae-8a693c3b2b8c))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/LRA0832BE03L15.step"
+  (model "../step/LRA0832BE03L15.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

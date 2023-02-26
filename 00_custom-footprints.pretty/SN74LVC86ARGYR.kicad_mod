@@ -289,7 +289,7 @@
   (pad "13" smd rect (at 1.769001 -1.000001 90) (size 0.279908 0.849884) (layers "F.Cu" "F.Mask") (tstamp 66ecdfde-29d6-4e00-8d44-cf451711d8c0))
   (pad "14" smd rect (at 0.750001 -1.731) (size 0.279908 0.849884) (layers "F.Cu" "F.Mask") (tstamp 5cc336b6-d2ae-4001-a6b1-86523dc9c75b))
   (pad "15" smd rect (at 0 0) (size 2.05 2.05) (layers "F.Cu") (tstamp 2f408158-0024-4605-9562-b5da25feeec5))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/SN74LVC86ARGYR.step"
+  (model "../step/SN74LVC86ARGYR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

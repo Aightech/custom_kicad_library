@@ -95,7 +95,7 @@
   (pad "10" smd rect (at 0.7493 -0.750001 90) (size 0.3048 0.3302) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6e9c29d3-0a18-4aa4-b05b-b0cc51ebb7bf))
   (pad "11" smd rect (at 0.25 -0.7493) (size 0.3048 0.3302) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 287fb539-c29f-47d6-b6b8-d72d26f9acaf))
   (pad "12" smd rect (at -0.25 -0.7493) (size 0.3048 0.3302) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d16b8bc5-086c-4e37-bf87-6ba9d19743e4))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/KX134-1211.STEP"
+  (model "../step/KX134-1211.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

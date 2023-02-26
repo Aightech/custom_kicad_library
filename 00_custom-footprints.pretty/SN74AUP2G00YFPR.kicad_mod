@@ -39,7 +39,7 @@
   (pad "C2" smd circle (at 0.2 0.2) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c3d5f717-5c07-43a3-9d30-592a88352aa2))
   (pad "D1" smd circle (at -0.2 0.6) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2c63d0ef-ef47-4564-ad89-26cb89db9a1e))
   (pad "D2" smd circle (at 0.2 0.6) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d29715e1-950a-44ea-bda4-80cbcb5ccad8))
-  (model "/home/aightech/KICAD/libs/custom_lib/step/SN74AUP2G00YFPR.step"
+  (model "../step/SN74AUP2G00YFPR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
